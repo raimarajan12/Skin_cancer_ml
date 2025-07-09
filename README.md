@@ -1,4 +1,4 @@
-# Skin Cancer Detection using Machine Learning 🧠🩺
+# Skin Cancer Detection using Machine Learning 
 
 This project detects different types of skin cancer using dermatoscopic images and machine learning techniques.
 
